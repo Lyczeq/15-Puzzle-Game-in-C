@@ -17,7 +17,7 @@ When the game starts, a user sees game's rules and a 4x4 board, in which numbers
 
 ## How to run?
 - Clone this repository.
-- Run **15-Game-Puzzle.exe** file
+- Run **15-Puzzle-Game.exe** file
 
 ## Documentation
 If you are interested in how each function works, take a look at the [documentation](documentation.pdf).
