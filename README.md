@@ -11,6 +11,8 @@ When the game starts, a user sees game's rules and a 4x4 board, in which numbers
 - **d**, to change position of a blank space and a number on the left
 - **q**, to quit the game
 
+<img src="img/theGame.png">
+
 **The aim of the game** is to order the numbers from 1 to 15 leaving last box blank. If a user wins, he sees *Congratuations message* and a number of moves he has needed to win.
 
 ## How to run?
