@@ -1,0 +1,5 @@
+﻿  functions.c
+E:\Repozytoria\15-Puzzle-Game\15-Puzzle-Game\functions.c(15,18): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  main.c
+  Generowanie kodu...
+  15-Puzzle-Game.vcxproj -> E:\Repozytoria\15-Puzzle-Game\Debug\15-Puzzle-Game.exe
