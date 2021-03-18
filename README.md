@@ -23,4 +23,4 @@ When the game starts, a user sees game's rules and a 4x4 board, in which numbers
 If you are interested in how each function works, take a look at the [documentation](documentation.pdf).
 
 ###### In addition
-Currently I am working on 15 Puzzle Game using HTML,Sass and JavaScript. [Check this out!](https://github.com/Lyczeq/15-Puzzle-Game-Frontend)
+I have also created the 15 Puzzle Game using HTML,Sass and JavaScript. [Check this out!](https://github.com/Lyczeq/15-Puzzle-Game-Frontend):joystick:
