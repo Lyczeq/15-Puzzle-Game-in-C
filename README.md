@@ -1,4 +1,4 @@
-# 15-Puzzle-Game-in-C
+<h1 align="center">15 Puzzle Game</h1>
 Final project of Programming classes in second semester of Computer Science studies.
 
 Game is written in C language and doesn't use any additional libraries, so the game works in console. It was necessery to use dynamic structures, so I applied a linked list.
