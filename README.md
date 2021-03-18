@@ -1,4 +1,4 @@
-<h1 align="center">15 Puzzle Game</h1>
+<h1 align="center">15 Puzzle Game:joystick:</h1>
 Final project of Programming classes in second semester of Computer Science studies.
 
 Game is written in C language and doesn't use any additional libraries, so the game works in console. It was necessery to use dynamic structures, so I applied a linked list.
@@ -23,4 +23,4 @@ When the game starts, a user sees game's rules and a 4x4 board, in which numbers
 If you are interested in how each function works, take a look at the [documentation](documentation.pdf).
 
 ###### In addition
-I have also created the 15 Puzzle Game using HTML,Sass and JavaScript. [Check this out!](https://github.com/Lyczeq/15-Puzzle-Game-Frontend):joystick:
+I have also created the 15 Puzzle Game using HTML,Sass and JavaScript. [Check this out!](https://github.com/Lyczeq/15-Puzzle-Game-Frontend):video_game:
